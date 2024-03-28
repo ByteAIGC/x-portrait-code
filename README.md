@@ -11,12 +11,14 @@
                 <a href="https://seasonsh.github.io/">Yichun Shi</a>,
                 <a href="http://linjieluo.com/">Linjie Luo</a>
     <br>
+    <b>&nbsp;  ByteDance Inc.</b>
+    <br></br>
     <br>
         <a href="https://arxiv.org/abs/2403.15931"><img src='https://img.shields.io/badge/arXiv-X--Portrait-red' alt='Paper PDF'></a>
         <a href='https://byteaigc.github.io/x-portrait/'><img src='https://img.shields.io/badge/Project_Page-X--Portrait-green' alt='Project Page'></a>
-        <a href='https://youtu.be/VGxt5XghRdw'><img src='https://badges.aleen42.com/src/youtube.svg' alt='Video'></a>
+        <a href='https://youtu.be/VGxt5XghRdw'>
+        <img src='https://img.shields.io/badge/YouTube-X--Portrait-rgb(255, 0, 0)' alt='Youtube'></a>
     <br>
-    <b>&nbsp;  ByteDance</b>
   </p>
   
   <table align="center">
