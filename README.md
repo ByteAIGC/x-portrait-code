@@ -11,8 +11,8 @@
                 <a href="https://seasonsh.github.io/">Yichun Shi</a>,
                 <a href="http://linjieluo.com/">Linjie Luo</a>
     <br>
-    <b>&nbsp;  ByteDance Inc.</b>
-    <br></br>
+    <b>&nbsp;  ByteDance Inc. </b>
+    <br>
     <br>
         <a href="https://arxiv.org/abs/2403.15931"><img src='https://img.shields.io/badge/arXiv-X--Portrait-red' alt='Paper PDF'></a>
         <a href='https://byteaigc.github.io/x-portrait/'><img src='https://img.shields.io/badge/Project_Page-X--Portrait-green' alt='Project Page'></a>
