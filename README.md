@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <h2 align="center">X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention</h2>
+  <h2 align="center"> X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention [SIGGRAPH 2024] </h2>
   <p align="center">
                 <a href="https://scholar.google.com/citations?user=FV0eXhQAAAAJ&hl=en">You Xie</a>,
                 <a href="https://hongyixu37.github.io/homepage/">Hongyi Xu</a>,
@@ -29,17 +29,4 @@
     </tr>
   </table>
 
-## 📢 News
-* **[2024.03.27]** Release X-Portrait paper and project page.
-
-
-## 🎓 Citation
-If you find this codebase useful for your research, please use the following entry.
-```BibTeX
-@inproceedings{xie2024x,
-  title={X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention},
-  author={Xie, You and Xu, Hongyi and Song, Guoxian and Wang, Chao and Shi, Yichun and Luo, Linjie},
-  journal={arXiv preprint arXiv:2403.15931},
-  year={2024}
-}
-```
+Please refer to this link for our official code: https://github.com/bytedance/X-Portrait
